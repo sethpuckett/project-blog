@@ -1357,7 +1357,7 @@ a.newer-posts:hover {
 }
 
 .back-link {
-  display: block;
+  display: inline-block;
   padding: 20px 40px;
 }
 
