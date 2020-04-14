@@ -9,8 +9,6 @@ tags: [JavaScript, PhaserJS, Google Firebase, Game Development, Language Learnin
 author: Seth
 ---
 
-## Overview
-
 Dead Language is a zombie-themed language learning video game built using JavaScript and the PhaserJS game framework. It combines fast-paced zombie blasting gameplay and vocab study in a single package in a way that I hope is a little  more entertaining than flashcards.
 
 **check the game out at [deadlanguage.io](https://www.deadlanguage.io).**
